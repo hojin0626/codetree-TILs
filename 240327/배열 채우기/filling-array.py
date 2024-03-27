@@ -2,7 +2,6 @@ n = 10
 arr1 = list(map(int, input().split()))
 arr2 = []
 
-sum_val = 0
 for i in range(n):
     if arr1[i] == 0:
         break
